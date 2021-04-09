@@ -20,4 +20,9 @@ person_info = {
 # multiple variables in one line 
 first_name, last_name, country, age, is_married = 'Ralph', 'Bunche', 'Paris', 22, 'yes'
    
-print(len(first_name))
+# Printing the values stored in the variables
+print('First Name:', first_name)
+print('Second Name:', second_name)
+print('County:', country)
+print('Age:', age)
+print('Married:', is_married)
